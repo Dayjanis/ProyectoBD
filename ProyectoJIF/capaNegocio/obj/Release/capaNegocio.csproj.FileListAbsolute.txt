@@ -1,0 +1,18 @@
+J:\ProgramacionBD\ProyectoJIF\capaNegocio\bin\Release\capaNegocio.dll
+J:\ProgramacionBD\ProyectoJIF\capaNegocio\bin\Release\capaNegocio.pdb
+J:\ProgramacionBD\ProyectoJIF\capaNegocio\bin\Release\capaDatos.dll
+J:\ProgramacionBD\ProyectoJIF\capaNegocio\bin\Release\capaEntidades.dll
+J:\ProgramacionBD\ProyectoJIF\capaNegocio\bin\Release\capaDatos.pdb
+J:\ProgramacionBD\ProyectoJIF\capaNegocio\bin\Release\capaEntidades.pdb
+J:\ProgramacionBD\ProyectoJIF\capaNegocio\obj\Release\capaNegocio.csprojResolveAssemblyReference.cache
+J:\ProgramacionBD\ProyectoJIF\capaNegocio\obj\Release\capaNegocio.dll
+J:\ProgramacionBD\ProyectoJIF\capaNegocio\obj\Release\capaNegocio.pdb
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaNegocio\bin\Release\capaNegocio.dll
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaNegocio\bin\Release\capaNegocio.pdb
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaNegocio\bin\Release\capaDatos.dll
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaNegocio\bin\Release\capaEntidades.dll
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaNegocio\bin\Release\capaDatos.pdb
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaNegocio\bin\Release\capaEntidades.pdb
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaNegocio\obj\Release\capaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaNegocio\obj\Release\capaNegocio.dll
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaNegocio\obj\Release\capaNegocio.pdb

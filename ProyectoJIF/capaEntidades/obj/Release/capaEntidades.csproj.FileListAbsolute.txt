@@ -1,0 +1,9 @@
+J:\ProgramacionBD\ProyectoJIF\capaEntidades\bin\Release\capaEntidades.dll
+J:\ProgramacionBD\ProyectoJIF\capaEntidades\bin\Release\capaEntidades.pdb
+J:\ProgramacionBD\ProyectoJIF\capaEntidades\obj\Release\capaEntidades.dll
+J:\ProgramacionBD\ProyectoJIF\capaEntidades\obj\Release\capaEntidades.pdb
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaEntidades\bin\Release\capaEntidades.dll
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaEntidades\bin\Release\capaEntidades.pdb
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaEntidades\obj\Release\capaEntidades.dll
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaEntidades\obj\Release\capaEntidades.pdb
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaEntidades\obj\Release\capaEntidades.csprojResolveAssemblyReference.cache

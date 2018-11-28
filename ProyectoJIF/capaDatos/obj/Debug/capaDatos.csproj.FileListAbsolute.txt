@@ -1,0 +1,28 @@
+E:\ProyectoJIF\capaDatos\bin\Debug\capaDatos.dll
+E:\ProyectoJIF\capaDatos\bin\Debug\capaDatos.pdb
+E:\ProyectoJIF\capaDatos\bin\Debug\capaEntidades.dll
+E:\ProyectoJIF\capaDatos\bin\Debug\capaEntidades.pdb
+E:\ProyectoJIF\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+E:\ProyectoJIF\capaDatos\obj\Debug\capaDatos.dll
+E:\ProyectoJIF\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\TEMP\Desktop\ProyectoJIF\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\TEMP\Desktop\ProyectoJIF\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\TEMP\Desktop\ProyectoJIF\capaDatos\bin\Debug\capaEntidades.dll
+C:\Users\TEMP\Desktop\ProyectoJIF\capaDatos\bin\Debug\capaEntidades.pdb
+C:\Users\TEMP\Desktop\ProyectoJIF\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\ProyectoJIF\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\TEMP\Desktop\ProyectoJIF\capaDatos\obj\Debug\capaDatos.pdb
+E:\Programacion BD\ProyectoJIF\capaDatos\bin\Debug\capaDatos.dll
+E:\Programacion BD\ProyectoJIF\capaDatos\bin\Debug\capaDatos.pdb
+E:\Programacion BD\ProyectoJIF\capaDatos\bin\Debug\capaEntidades.dll
+E:\Programacion BD\ProyectoJIF\capaDatos\bin\Debug\capaEntidades.pdb
+E:\Programacion BD\ProyectoJIF\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+E:\Programacion BD\ProyectoJIF\capaDatos\obj\Debug\capaDatos.dll
+E:\Programacion BD\ProyectoJIF\capaDatos\obj\Debug\capaDatos.pdb
+H:\ProgramacionBD\ProyectoJIF\capaDatos\bin\Debug\capaDatos.dll
+H:\ProgramacionBD\ProyectoJIF\capaDatos\bin\Debug\capaDatos.pdb
+H:\ProgramacionBD\ProyectoJIF\capaDatos\bin\Debug\capaEntidades.dll
+H:\ProgramacionBD\ProyectoJIF\capaDatos\bin\Debug\capaEntidades.pdb
+H:\ProgramacionBD\ProyectoJIF\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+H:\ProgramacionBD\ProyectoJIF\capaDatos\obj\Debug\capaDatos.dll
+H:\ProgramacionBD\ProyectoJIF\capaDatos\obj\Debug\capaDatos.pdb

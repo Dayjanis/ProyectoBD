@@ -1,0 +1,15 @@
+E:\ProyectoJIF\capaEntidades\bin\Debug\capaEntidades.dll
+E:\ProyectoJIF\capaEntidades\bin\Debug\capaEntidades.pdb
+E:\ProyectoJIF\capaEntidades\obj\Debug\capaEntidades.csprojResolveAssemblyReference.cache
+E:\ProyectoJIF\capaEntidades\obj\Debug\capaEntidades.dll
+E:\ProyectoJIF\capaEntidades\obj\Debug\capaEntidades.pdb
+C:\Users\TEMP\Desktop\ProyectoJIF\capaEntidades\bin\Debug\capaEntidades.dll
+C:\Users\TEMP\Desktop\ProyectoJIF\capaEntidades\bin\Debug\capaEntidades.pdb
+C:\Users\TEMP\Desktop\ProyectoJIF\capaEntidades\obj\Debug\capaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\ProyectoJIF\capaEntidades\obj\Debug\capaEntidades.dll
+C:\Users\TEMP\Desktop\ProyectoJIF\capaEntidades\obj\Debug\capaEntidades.pdb
+H:\ProgramacionBD\ProyectoJIF\capaEntidades\bin\Debug\capaEntidades.dll
+H:\ProgramacionBD\ProyectoJIF\capaEntidades\bin\Debug\capaEntidades.pdb
+H:\ProgramacionBD\ProyectoJIF\capaEntidades\obj\Debug\capaEntidades.csprojResolveAssemblyReference.cache
+H:\ProgramacionBD\ProyectoJIF\capaEntidades\obj\Debug\capaEntidades.dll
+H:\ProgramacionBD\ProyectoJIF\capaEntidades\obj\Debug\capaEntidades.pdb

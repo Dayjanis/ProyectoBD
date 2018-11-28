@@ -1,0 +1,14 @@
+J:\ProgramacionBD\ProyectoJIF\capaDatos\bin\Release\capaDatos.dll
+J:\ProgramacionBD\ProyectoJIF\capaDatos\bin\Release\capaDatos.pdb
+J:\ProgramacionBD\ProyectoJIF\capaDatos\bin\Release\capaEntidades.dll
+J:\ProgramacionBD\ProyectoJIF\capaDatos\bin\Release\capaEntidades.pdb
+J:\ProgramacionBD\ProyectoJIF\capaDatos\obj\Release\capaDatos.csprojResolveAssemblyReference.cache
+J:\ProgramacionBD\ProyectoJIF\capaDatos\obj\Release\capaDatos.dll
+J:\ProgramacionBD\ProyectoJIF\capaDatos\obj\Release\capaDatos.pdb
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaDatos\bin\Release\capaDatos.dll
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaDatos\bin\Release\capaDatos.pdb
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaDatos\bin\Release\capaEntidades.dll
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaDatos\bin\Release\capaEntidades.pdb
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaDatos\obj\Release\capaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaDatos\obj\Release\capaDatos.dll
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\capaDatos\obj\Release\capaDatos.pdb

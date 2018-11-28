@@ -1,0 +1,38 @@
+J:\ProgramacionBD\ProyectoJIF\FormJif\bin\Release\FormJif.exe.config
+J:\ProgramacionBD\ProyectoJIF\FormJif\bin\Release\FormJif.exe
+J:\ProgramacionBD\ProyectoJIF\FormJif\bin\Release\FormJif.pdb
+J:\ProgramacionBD\ProyectoJIF\FormJif\bin\Release\capaEntidades.dll
+J:\ProgramacionBD\ProyectoJIF\FormJif\bin\Release\capaNegocio.dll
+J:\ProgramacionBD\ProyectoJIF\FormJif\bin\Release\capaDatos.dll
+J:\ProgramacionBD\ProyectoJIF\FormJif\bin\Release\capaEntidades.pdb
+J:\ProgramacionBD\ProyectoJIF\FormJif\bin\Release\capaNegocio.pdb
+J:\ProgramacionBD\ProyectoJIF\FormJif\bin\Release\capaDatos.pdb
+J:\ProgramacionBD\ProyectoJIF\FormJif\obj\Release\FormJif.csprojResolveAssemblyReference.cache
+J:\ProgramacionBD\ProyectoJIF\FormJif\obj\Release\FormJif.FCliente.resources
+J:\ProgramacionBD\ProyectoJIF\FormJif\obj\Release\FormJif.FCredito.resources
+J:\ProgramacionBD\ProyectoJIF\FormJif\obj\Release\FormJif.FProducto.resources
+J:\ProgramacionBD\ProyectoJIF\FormJif\obj\Release\FormJif.MDIJIF.resources
+J:\ProgramacionBD\ProyectoJIF\FormJif\obj\Release\FormJif.Properties.Resources.resources
+J:\ProgramacionBD\ProyectoJIF\FormJif\obj\Release\FormJif.FCred_Prod.resources
+J:\ProgramacionBD\ProyectoJIF\FormJif\obj\Release\FormJif.csproj.GenerateResource.Cache
+J:\ProgramacionBD\ProyectoJIF\FormJif\obj\Release\FormJif.exe
+J:\ProgramacionBD\ProyectoJIF\FormJif\obj\Release\FormJif.pdb
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\bin\Release\FormJif.exe.config
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\obj\Release\FormJif.exe
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\obj\Release\FormJif.pdb
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\bin\Release\FormJif.exe
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\bin\Release\FormJif.pdb
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\bin\Release\capaEntidades.dll
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\bin\Release\capaNegocio.dll
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\bin\Release\capaDatos.dll
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\bin\Release\capaEntidades.pdb
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\bin\Release\capaNegocio.pdb
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\bin\Release\capaDatos.pdb
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\obj\Release\FormJif.csprojResolveAssemblyReference.cache
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\obj\Release\FormJif.FCliente.resources
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\obj\Release\FormJif.FCredito.resources
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\obj\Release\FormJif.FProducto.resources
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\obj\Release\FormJif.MDIJIF.resources
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\obj\Release\FormJif.Properties.Resources.resources
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\obj\Release\FormJif.FCred_Prod.resources
+C:\Users\Keyla Gonzalez\Desktop\ProyectoJIF\FormJif\obj\Release\FormJif.csproj.GenerateResource.Cache

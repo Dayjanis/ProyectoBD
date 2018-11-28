@@ -1,0 +1,20 @@
+F:\Programacion BD\solucioon1 clase1\capaEntidades\bin\Debug\capaEntidades.dll
+F:\Programacion BD\solucioon1 clase1\capaEntidades\bin\Debug\capaEntidades.pdb
+F:\Programacion BD\solucioon1 clase1\capaEntidades\obj\Debug\capaEntidades.csprojResolveAssemblyReference.cache
+F:\Programacion BD\solucioon1 clase1\capaEntidades\obj\Debug\capaEntidades.dll
+F:\Programacion BD\solucioon1 clase1\capaEntidades\obj\Debug\capaEntidades.pdb
+E:\Programacion BD\solucioon1 clase1\capaEntidades\bin\Debug\capaEntidades.dll
+E:\Programacion BD\solucioon1 clase1\capaEntidades\bin\Debug\capaEntidades.pdb
+E:\Programacion BD\solucioon1 clase1\capaEntidades\obj\Debug\capaEntidades.csprojResolveAssemblyReference.cache
+E:\Programacion BD\solucioon1 clase1\capaEntidades\obj\Debug\capaEntidades.dll
+E:\Programacion BD\solucioon1 clase1\capaEntidades\obj\Debug\capaEntidades.pdb
+H:\solucioon1 clase2\capaEntidades\bin\Debug\capaEntidades.dll
+H:\solucioon1 clase2\capaEntidades\bin\Debug\capaEntidades.pdb
+H:\solucioon1 clase2\capaEntidades\obj\Debug\capaEntidades.csprojResolveAssemblyReference.cache
+H:\solucioon1 clase2\capaEntidades\obj\Debug\capaEntidades.dll
+H:\solucioon1 clase2\capaEntidades\obj\Debug\capaEntidades.pdb
+E:\solucioon1 clase2\capaEntidades\bin\Debug\capaEntidades.dll
+E:\solucioon1 clase2\capaEntidades\bin\Debug\capaEntidades.pdb
+E:\solucioon1 clase2\capaEntidades\obj\Debug\capaEntidades.csprojResolveAssemblyReference.cache
+E:\solucioon1 clase2\capaEntidades\obj\Debug\capaEntidades.dll
+E:\solucioon1 clase2\capaEntidades\obj\Debug\capaEntidades.pdb

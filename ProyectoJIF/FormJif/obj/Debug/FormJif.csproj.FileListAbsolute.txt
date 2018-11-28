@@ -1,0 +1,65 @@
+E:\ProyectoJIF\FormJif\bin\Debug\FormJif.exe.config
+E:\ProyectoJIF\FormJif\obj\Debug\FormJif.csprojResolveAssemblyReference.cache
+E:\ProyectoJIF\FormJif\obj\Debug\FormJif.FCliente.resources
+E:\ProyectoJIF\FormJif\obj\Debug\FormJif.FCredito.resources
+E:\ProyectoJIF\FormJif\obj\Debug\FormJif.FProducto.resources
+E:\ProyectoJIF\FormJif\obj\Debug\FormJif.MDIJif.resources
+E:\ProyectoJIF\FormJif\obj\Debug\FormJif.Properties.Resources.resources
+E:\ProyectoJIF\FormJif\obj\Debug\FormJif.FCred_Prod.resources
+E:\ProyectoJIF\FormJif\obj\Debug\FormJif.csproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\bin\Debug\FormJif.exe.config
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\bin\Debug\FormJif.exe
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\bin\Debug\FormJif.pdb
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\bin\Debug\capaEntidades.dll
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\bin\Debug\capaNegocio.dll
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\bin\Debug\capaDatos.dll
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\bin\Debug\capaEntidades.pdb
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\bin\Debug\capaNegocio.pdb
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\bin\Debug\capaDatos.pdb
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\obj\Debug\FormJif.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\obj\Debug\FormJif.FCliente.resources
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\obj\Debug\FormJif.FCredito.resources
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\obj\Debug\FormJif.FProducto.resources
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\obj\Debug\FormJif.MDIJif.resources
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\obj\Debug\FormJif.Properties.Resources.resources
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\obj\Debug\FormJif.FCred_Prod.resources
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\obj\Debug\FormJif.csproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\obj\Debug\FormJif.exe
+C:\Users\TEMP\Desktop\ProyectoJIF\FormJif\obj\Debug\FormJif.pdb
+E:\Programacion BD\ProyectoJIF\FormJif\bin\Debug\FormJif.exe.config
+E:\Programacion BD\ProyectoJIF\FormJif\obj\Debug\FormJif.exe
+E:\Programacion BD\ProyectoJIF\FormJif\obj\Debug\FormJif.pdb
+E:\Programacion BD\ProyectoJIF\FormJif\bin\Debug\FormJif.exe
+E:\Programacion BD\ProyectoJIF\FormJif\bin\Debug\FormJif.pdb
+E:\Programacion BD\ProyectoJIF\FormJif\bin\Debug\capaEntidades.dll
+E:\Programacion BD\ProyectoJIF\FormJif\bin\Debug\capaNegocio.dll
+E:\Programacion BD\ProyectoJIF\FormJif\bin\Debug\capaDatos.dll
+E:\Programacion BD\ProyectoJIF\FormJif\bin\Debug\capaEntidades.pdb
+E:\Programacion BD\ProyectoJIF\FormJif\bin\Debug\capaNegocio.pdb
+E:\Programacion BD\ProyectoJIF\FormJif\bin\Debug\capaDatos.pdb
+E:\Programacion BD\ProyectoJIF\FormJif\obj\Debug\FormJif.csprojResolveAssemblyReference.cache
+E:\Programacion BD\ProyectoJIF\FormJif\obj\Debug\FormJif.FCliente.resources
+E:\Programacion BD\ProyectoJIF\FormJif\obj\Debug\FormJif.FCredito.resources
+E:\Programacion BD\ProyectoJIF\FormJif\obj\Debug\FormJif.FProducto.resources
+E:\Programacion BD\ProyectoJIF\FormJif\obj\Debug\FormJif.Properties.Resources.resources
+E:\Programacion BD\ProyectoJIF\FormJif\obj\Debug\FormJif.FCred_Prod.resources
+E:\Programacion BD\ProyectoJIF\FormJif\obj\Debug\FormJif.csproj.GenerateResource.Cache
+H:\ProgramacionBD\ProyectoJIF\FormJif\bin\Debug\FormJif.exe.config
+H:\ProgramacionBD\ProyectoJIF\FormJif\bin\Debug\FormJif.exe
+H:\ProgramacionBD\ProyectoJIF\FormJif\bin\Debug\FormJif.pdb
+H:\ProgramacionBD\ProyectoJIF\FormJif\bin\Debug\capaEntidades.dll
+H:\ProgramacionBD\ProyectoJIF\FormJif\bin\Debug\capaNegocio.dll
+H:\ProgramacionBD\ProyectoJIF\FormJif\bin\Debug\capaDatos.dll
+H:\ProgramacionBD\ProyectoJIF\FormJif\bin\Debug\capaEntidades.pdb
+H:\ProgramacionBD\ProyectoJIF\FormJif\bin\Debug\capaNegocio.pdb
+H:\ProgramacionBD\ProyectoJIF\FormJif\bin\Debug\capaDatos.pdb
+H:\ProgramacionBD\ProyectoJIF\FormJif\obj\Debug\FormJif.csprojResolveAssemblyReference.cache
+H:\ProgramacionBD\ProyectoJIF\FormJif\obj\Debug\FormJif.FCliente.resources
+H:\ProgramacionBD\ProyectoJIF\FormJif\obj\Debug\FormJif.FCredito.resources
+H:\ProgramacionBD\ProyectoJIF\FormJif\obj\Debug\FormJif.FProducto.resources
+H:\ProgramacionBD\ProyectoJIF\FormJif\obj\Debug\FormJif.MDIJIF.resources
+H:\ProgramacionBD\ProyectoJIF\FormJif\obj\Debug\FormJif.Properties.Resources.resources
+H:\ProgramacionBD\ProyectoJIF\FormJif\obj\Debug\FormJif.FCred_Prod.resources
+H:\ProgramacionBD\ProyectoJIF\FormJif\obj\Debug\FormJif.csproj.GenerateResource.Cache
+H:\ProgramacionBD\ProyectoJIF\FormJif\obj\Debug\FormJif.exe
+H:\ProgramacionBD\ProyectoJIF\FormJif\obj\Debug\FormJif.pdb

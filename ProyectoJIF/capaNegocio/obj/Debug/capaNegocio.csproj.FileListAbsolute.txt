@@ -1,0 +1,36 @@
+E:\ProyectoJIF\capaNegocio\bin\Debug\capaNegocio.dll
+E:\ProyectoJIF\capaNegocio\bin\Debug\capaNegocio.pdb
+E:\ProyectoJIF\capaNegocio\bin\Debug\capaDatos.dll
+E:\ProyectoJIF\capaNegocio\bin\Debug\capaEntidades.dll
+E:\ProyectoJIF\capaNegocio\bin\Debug\capaDatos.pdb
+E:\ProyectoJIF\capaNegocio\bin\Debug\capaEntidades.pdb
+E:\ProyectoJIF\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
+E:\ProyectoJIF\capaNegocio\obj\Debug\capaNegocio.dll
+E:\ProyectoJIF\capaNegocio\obj\Debug\capaNegocio.pdb
+C:\Users\TEMP\Desktop\ProyectoJIF\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\TEMP\Desktop\ProyectoJIF\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\TEMP\Desktop\ProyectoJIF\capaNegocio\bin\Debug\capaDatos.dll
+C:\Users\TEMP\Desktop\ProyectoJIF\capaNegocio\bin\Debug\capaEntidades.dll
+C:\Users\TEMP\Desktop\ProyectoJIF\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Users\TEMP\Desktop\ProyectoJIF\capaNegocio\bin\Debug\capaEntidades.pdb
+C:\Users\TEMP\Desktop\ProyectoJIF\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\ProyectoJIF\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\TEMP\Desktop\ProyectoJIF\capaNegocio\obj\Debug\capaNegocio.pdb
+E:\Programacion BD\ProyectoJIF\capaNegocio\bin\Debug\capaNegocio.dll
+E:\Programacion BD\ProyectoJIF\capaNegocio\bin\Debug\capaNegocio.pdb
+E:\Programacion BD\ProyectoJIF\capaNegocio\bin\Debug\capaDatos.dll
+E:\Programacion BD\ProyectoJIF\capaNegocio\bin\Debug\capaEntidades.dll
+E:\Programacion BD\ProyectoJIF\capaNegocio\bin\Debug\capaDatos.pdb
+E:\Programacion BD\ProyectoJIF\capaNegocio\bin\Debug\capaEntidades.pdb
+E:\Programacion BD\ProyectoJIF\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
+E:\Programacion BD\ProyectoJIF\capaNegocio\obj\Debug\capaNegocio.dll
+E:\Programacion BD\ProyectoJIF\capaNegocio\obj\Debug\capaNegocio.pdb
+H:\ProgramacionBD\ProyectoJIF\capaNegocio\bin\Debug\capaNegocio.dll
+H:\ProgramacionBD\ProyectoJIF\capaNegocio\bin\Debug\capaNegocio.pdb
+H:\ProgramacionBD\ProyectoJIF\capaNegocio\bin\Debug\capaDatos.dll
+H:\ProgramacionBD\ProyectoJIF\capaNegocio\bin\Debug\capaEntidades.dll
+H:\ProgramacionBD\ProyectoJIF\capaNegocio\bin\Debug\capaDatos.pdb
+H:\ProgramacionBD\ProyectoJIF\capaNegocio\bin\Debug\capaEntidades.pdb
+H:\ProgramacionBD\ProyectoJIF\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
+H:\ProgramacionBD\ProyectoJIF\capaNegocio\obj\Debug\capaNegocio.dll
+H:\ProgramacionBD\ProyectoJIF\capaNegocio\obj\Debug\capaNegocio.pdb
